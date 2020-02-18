@@ -1,0 +1,5 @@
+﻿  board.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\david\Desktop\program\coding\bidEscape\bidEscape\bidEscape\board.c(29): warning C4716: 'start': 값을 반환해야 합니다.
+  bidEscape.vcxproj -> C:\Users\david\Desktop\program\coding\bidEscape\bidEscape\x64\Debug\bidEscape.exe
